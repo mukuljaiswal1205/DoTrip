@@ -1,0 +1,8 @@
+.{}
+#center{ border: 2px solid; width: 80%; margin-left: 10%; height: 25em }
+#center legend{ font-size: 31px; border: 1px solid; border-radius: 1em; padding: 0.4em;  }
+#center fieldset { width: 25em; margin-left: 30%; margin-top: 8%; border: 1px solid; border-radius: 1em;  }
+legend { margin-left: 8%; }
+#center table tr td label { font-size: 25px; margin-right: 1em; margin-lefT: 1em; }
+#center input { border: 1px solid black; width:17em; height: 2em; }
+#Submit { border: 2px solid; width: 10em; height: 2em; }

@@ -1,0 +1,12 @@
+.{}
+#center 
+{
+  border: 2px solid black; width: 80%; margin-left: 10%; height: 30em;
+  background-image: url("Images/bg1.jpg"); 
+  background-size:100%; background-position-x: 100%; background-position-y: 100%;
+  background-repeat: no-repeat;
+ 
+}
+#center h2 { color: white; font-size: 50px; text-shadow: 2px 1px whitesmoke; }
+#center p { color: white; font-size: xx-large; margin-left: 10%; margin-right: 10%; text-shadow: 1px 1px whitesmoke; }
+

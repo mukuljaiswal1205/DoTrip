@@ -1,0 +1,16 @@
+header{background-image: url('Images/Angle.png');height: 10em;border: 2px solid;border-radius: 10px; display: block; }
+menu{border: 1px solid; height: 40px; border-radius: 5px; background: pink;  }
+ul{list-style-type: none; font-size: 30px;}
+a{text-decoration: none;padding-bottom: 2px;color: black}
+li{float: left;margin-left: 1px; padding-bottom: 4px; width: 10%; text-align: center; border-left:  1px solid; }
+#About{border-right: 1px solid;}
+li:hover{background: aqua;}
+#txt_Search{margin: 3px 0 0 80px ; font-size: 22px; width: 30%;}
+#btn_Search{width: 10%; font-size: 22px;}
+/*aside{border: 1px solid; width: 20%; height: 25em; float: right; border-radius:5px; margin-right: 10px }*/
+.lable{border: 1px solid; font-size: 30px; text-align: center; border-bottom: none; background:paleturquoise; border-radius: 5px 5px 0 0px;}
+#Main_Section{ background-image: url('Images/ipad-background-preview-30.jpg'); border: 2px dotted; width: 70%; margin-left: 15%}
+#sec_Update{border: 1px solid;height: 25em; border-radius: 5px;}
+footer{background: black; color: white; font-size: 20px; margin: 5px; border-radius: 5px}
+#Socil_Media_Sec{ width:20%; float:right;}
+.Social_Img{ margin-left: 5px; width: 20%; height: 40px }

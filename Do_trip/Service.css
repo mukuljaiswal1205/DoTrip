@@ -1,0 +1,10 @@
+#ItemColector_Sec{border: 2px solid;width: 80%;margin-left: 10%;height:auto;; border-radius: 5px;}
+#Taxi_Sec,#Car_Sec,#Bus_Sec{border: 1px solid; width: auto; margin-top:2px; height: 15em;}
+#Car_Sec{margin-top:0px;}
+.IMG{border: 2px solid white; width: 30%; height:6em;  border-radius: 10px;}
+.IMGGroup_Sec{border: 0px solid; width:30%; height: 13em; margin: 10px 5% 0 0; float: right; background: }
+.information_sec{border: 0px solid; width: 60%; margin:5% 0 0 1%}
+#Car_Sec{background-image: url('Images/Cars/68815238-high-resolution-wallpapers.jpg');background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#Bus_Sec{background-image: url('Images/Cars/70401256-sunset-in-summer.jpeg');background-size: cover; background-repeat: no-repeat; background-position: center center;}
+#Taxi_Sec{background-image: url('Images/Taxi/Taxi13.jpg');background-size: cover; background-repeat: no-repeat; background-position: center center;}
+a{text-decoration: none;}
